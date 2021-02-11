@@ -5,7 +5,7 @@ A Image Classification for Bulling, No Bulling, built on Top of MobleiNet Transf
 
 First Install all the packages by running the command
 ```
-pip install -r requirements.txt'
+pip install -r requirements.txt
 ```
 
 then run the app.py file
@@ -13,4 +13,7 @@ then run the app.py file
 ```
 python app.py
 ```
+
+
+Project Screenshots:
 
