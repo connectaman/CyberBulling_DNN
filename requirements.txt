@@ -1,0 +1,8 @@
+tensorflow
+keras
+opencv-python
+joblib
+flask
+werkzeug
+os
+numpy
